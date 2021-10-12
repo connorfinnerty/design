@@ -1,6 +1,12 @@
 # design
 
+Links
 
+Learn the Bezier Tool Game
+https://bezier.method.ac/
+
+UX Principles
+https://lawsofux.com/
 
 Books to check out:
 
